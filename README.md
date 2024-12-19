@@ -1,2 +1,2 @@
 # S6-Mini-Project
-Vidya Academy of Science and Technology
+Topic: Stock Price Prediction using Random forest regressor
